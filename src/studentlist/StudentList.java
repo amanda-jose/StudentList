@@ -19,8 +19,8 @@ public class StudentList {
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner input = new Scanner(System.in);
-        //Changed array size to 2
-        Student[] students = new Student[2];
+        
+        Student[] students = new Student[3];
         
         for(int i = 0; i < students.length; i++){
             System.out.println("Enter the student's name" + (i + 1));
