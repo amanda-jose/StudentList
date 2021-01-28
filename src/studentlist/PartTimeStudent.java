@@ -7,7 +7,7 @@ package studentlist;
 
 /**
  *
- * @author Amanda
+ * @author Amanda jan 2021
  */
 public class PartTimeStudent {
     
