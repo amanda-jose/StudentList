@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Amanda
+ * @author Amanda jan 2021
  */
 public class StudentList {
 
