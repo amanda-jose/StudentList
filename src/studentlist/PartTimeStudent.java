@@ -13,6 +13,8 @@ public class PartTimeStudent {
     
     private int numCourses;
 
+    // All is good! 
+    
     public PartTimeStudent(int numCourses, String name) {
         super(name);
         this.numCourses = numCourses;
